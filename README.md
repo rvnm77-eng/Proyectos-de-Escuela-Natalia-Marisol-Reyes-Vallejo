@@ -6,7 +6,7 @@ Repositorio con proyectos desarrollados a lo largo de la carrera de Ingeniería 
 
 | Proyecto | Tecnología | Descripción |
 | :--- | :--- | :--- |
-| Calculadora WYSIWYG | Java, Java Swing | Calculadora de escritorio con interfaz gráfica |
+| [Calculadora WYSIWYG](Calculadora-Swing/) | Java, Java Swing | Calculadora de escritorio con interfaz gráfica |
 | Calculadora Android | Java, Android, XML | Calculadora móvil con diseño TableLayout |
 | CRUD MySQL | Java, MySQL, JDBC | Sistema de gestión de alumnos |
 | SQLite Android | SQLite, Android | Base de datos local móvil |
