@@ -20,7 +20,7 @@ Repositorio con proyectos desarrollados a lo largo de la carrera de Ingeniería 
 
 ---
 
-## 💻 Calculadora WYSIWYG — Java Swing
+##  Calculadora WYSIWYG — Java Swing
 **Materia:** Tópicos Avanzados de Programación | **Docente:** Mtro. José Luis García Cerpas
 
 Aplicación de escritorio con interfaz gráfica que realiza las cuatro operaciones aritméticas básicas, incluyendo validación de errores.
@@ -29,7 +29,7 @@ Aplicación de escritorio con interfaz gráfica que realiza las cuatro operacion
 
 ---
 
-## 📲 Calculadora Android — Android Studio
+##  Calculadora Android — Android Studio
 **Materia:** Tópicos Avanzados de Programación
 
 Aplicación móvil con interfaz construida en XML usando `TableLayout` para una cuadrícula responsiva.
@@ -38,7 +38,7 @@ Aplicación móvil con interfaz construida en XML usando `TableLayout` para una 
 
 ---
 
-## 🗄️ CRUD Base de Datos MySQL
+##  CRUD Base de Datos MySQL
 **Materia:** Tópicos Avanzados de Programación | **Docente:** Mtro. José Luis García Cerpas
 
 Sistema de gestión de alumnos con operaciones CRUD y arquitectura MVC.
